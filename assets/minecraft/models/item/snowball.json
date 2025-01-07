@@ -1,0 +1,20 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/snowball"
+    },
+    "overides": [
+        {
+            "predicate": {
+                "minecraft:custom_model_data": 444016
+            },
+            "model": "item/fire_charge"
+        },
+        {
+            "predicate": {
+                "minecraft:custom_model_data": 444017
+            },
+            "model": "item/tnt"
+        }
+    ]
+}
