@@ -1,4 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-*.json linguist-detectable=true
-*.json linguist-documentation=false
